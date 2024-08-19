@@ -1,0 +1,2 @@
+
+Student ID: 1, Student Name: khánh, Math Score: 1.0, Physics Score: 23.0, Chemistry Score: 3.0
